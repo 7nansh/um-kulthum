@@ -1,6 +1,7 @@
 .parallax {
     /* background-image: url("umk.webp"); */
-    background-image: url("um.jpg");
+    /* background-image: url("um.jpg"); */
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)),url("um.jpg");
     min-height: 700px; 
     background-attachment: fixed;
     background-position: center;
@@ -19,6 +20,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.6;
+    
 }
 
 .bg-text {
