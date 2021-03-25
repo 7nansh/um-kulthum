@@ -80,6 +80,9 @@ img {
   text-align: center;
 }
 
+#title {
+  font-size: 50px;
+}
 
 .img-wrapper-0 {
   background-color:    #f7842b;
